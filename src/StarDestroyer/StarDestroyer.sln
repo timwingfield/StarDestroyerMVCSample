@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarDestroyer", "StarDestroyer.csproj", "{9DAB001E-72F5-4070-BBEB-C1C983297622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarDestroyer.Tests", "..\StarDestroyer.Tests\StarDestroyer.Tests.csproj", "{534703E4-7ADF-4AB7-925E-B45D2CC3C1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarDestroyer.Core", "..\StarDestroyer.Core\StarDestroyer.Core.csproj", "{88DF794F-0006-46A8-9835-04140D3B4AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarDestroyer.Tests.Integration", "..\StarDestroyer.Tests.Integration\StarDestroyer.Tests.Integration.csproj", "{2CA916C7-E007-48E9-8CFC-8E721414D912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAB001E-72F5-4070-BBEB-C1C983297622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAB001E-72F5-4070-BBEB-C1C983297622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAB001E-72F5-4070-BBEB-C1C983297622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAB001E-72F5-4070-BBEB-C1C983297622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534703E4-7ADF-4AB7-925E-B45D2CC3C1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534703E4-7ADF-4AB7-925E-B45D2CC3C1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534703E4-7ADF-4AB7-925E-B45D2CC3C1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534703E4-7ADF-4AB7-925E-B45D2CC3C1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DF794F-0006-46A8-9835-04140D3B4AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DF794F-0006-46A8-9835-04140D3B4AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DF794F-0006-46A8-9835-04140D3B4AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DF794F-0006-46A8-9835-04140D3B4AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA916C7-E007-48E9-8CFC-8E721414D912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA916C7-E007-48E9-8CFC-8E721414D912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA916C7-E007-48E9-8CFC-8E721414D912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA916C7-E007-48E9-8CFC-8E721414D912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

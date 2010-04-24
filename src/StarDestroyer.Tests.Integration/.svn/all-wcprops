@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/159/Samples/timwingfield/MvcSamples/StarDestroyer/src/StarDestroyer.Tests.Integration
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/158/Samples/timwingfield/MvcSamples/StarDestroyer/src/StarDestroyer.Tests.Integration/App.config
+END
+RepositoryTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/159/Samples/timwingfield/MvcSamples/StarDestroyer/src/StarDestroyer.Tests.Integration/RepositoryTests.cs
+END
+StarDestroyer.Tests.Integration.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/158/Samples/timwingfield/MvcSamples/StarDestroyer/src/StarDestroyer.Tests.Integration/StarDestroyer.Tests.Integration.csproj
+END

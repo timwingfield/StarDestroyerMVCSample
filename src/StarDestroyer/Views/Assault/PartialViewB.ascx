@@ -1,0 +1,4 @@
+<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl" %>
+
+<h2>This is Partial View B</h2>
+<p><i>In imperdiet dui ut orci pellentesque ut sodales sapien cursus. Cras ut ligula viverra enim mollis sagittis ac vitae purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim dolor, lobortis nec molestie a, fringilla vel odio. Nullam vel auctor dui. Curabitur quis neque nisi, lacinia fermentum odio. Vestibulum venenatis rutrum sapien, id venenatis elit pretium ac. Nunc lectus quam, dignissim sed sollicitudin non, ornare eu odio. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse rutrum iaculis velit, in ultricies mauris interdum et. </i></p>
